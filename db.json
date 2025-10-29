@@ -1,295 +1,179 @@
 {
   "products": [
     {
-      "name": "Iphone 15",
-      "price": 100000,
-      "image": "https://via.placeholder.com/100",
-      "hot": false,
-      "description": "iPhone 14 với thiết kế sang trọng, chip A15 Bionic mạnh mẽ, camera kép 12MP cho hình ảnh sắc nét.",
-      "id": "1"
+      "id": "1",
+      "name": "iPhone 15 Pro",
+      "price": 25990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-purple-1.jpg",
+      "category": "điện thoại",
+      "hot": true,
+      "description": "iPhone 15 Pro với chip A17 Bionic, khung titan và camera tele 5x."
     },
     {
       "id": "2",
-      "name": "Samsung S23",
-      "price": 18000000,
-      "image": "img/samsung.jpg",
+      "name": "Samsung Galaxy S23 Ultra",
+      "price": 23990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-purple-1.jpg",
       "category": "điện thoại",
       "hot": true,
-      "description": "Samsung Galaxy S23 với màn hình Dynamic AMOLED 2X, hiệu năng mạnh mẽ, chụp đêm xuất sắc."
+      "description": "Màn hình AMOLED 120Hz, camera 200MP và pin siêu bền."
     },
     {
-      "name": "Xiaomi 12",
-      "price": 15000000,
-      "image": "img/oppo-a6.png",
+      "id": "3",
+      "name": "Xiaomi 14 Pro",
+      "price": 17990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/313154/oppo-a38-vang-1-2.jpg",
       "category": "điện thoại",
-      "hot": true,
-      "description": "Xiaomi 13 trang bị chip Snapdragon 8 Gen 2, camera Leica, pin bền bỉ cùng sạc nhanh 120W.",
-      "id": "3"
+      "hot": false,
+      "description": "Snapdragon 8 Gen 3, sạc nhanh 120W, camera Leica."
     },
     {
       "id": "4",
-      "name": "Vivo X30",
-      "price": 7000000,
-      "image": "img/vivo.jpg",
-      "category": "điện thoại",
-      "hot": false,
-      "description": "Vivo X30 giá rẻ với màn hình lớn, cụm 3 camera sau, pin trâu đáp ứng nhu cầu giải trí cơ bản."
-    },
-    {
-      "id": "5",
-      "name": "Macbook Pro 2023",
-      "price": 55000000,
-      "image": "img/macbook.jpg",
-      "category": "laptop",
-      "hot": true,
-      "description": "Macbook Pro 2023 chạy chip Apple M2 Pro, hiệu năng cực mạnh, màn Liquid Retina XDR đẳng cấp."
-    },
-    {
-      "id": "6",
-      "name": "Dell XPS 13",
-      "price": 35000000,
-      "image": "img/dell.jpg",
-      "category": "laptop",
-      "hot": true,
-      "description": "Dell XPS 13 thiết kế siêu mỏng nhẹ, màn hình InfinityEdge 13.4 inch, pin lâu và hiệu năng ổn định."
-    },
-    {
-      "name": "Asus Zenbook",
-      "price": "1000000",
-      "image": "img/asus.jpg",
-      "hot": false,
-      "description": "Asus Zenbook với thiết kế hiện đại, màn OLED sắc nét, hiệu suất tối ưu cho công việc và giải trí.",
-      "id": "7"
-    },
-    {
-      "id": "8",
-      "name": "Google Pixel 9",
-      "price": 22000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Google_Pixel_9a_2024.jpg",
-      "category": "điện thoại",
-      "hot": false,
-      "description": "Google Pixel 9 với camera đột phá, Android thuần và cập nhật lâu dài."
-    },
-    {
-      "id": "9",
-      "name": "OnePlus 12",
-      "price": 20000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/OnePlus_12_pro_white.jpg",
-      "category": "điện thoại",
-      "hot": true,
-      "description": "OnePlus 12 flagship với sạc siêu nhanh, màn hình 120 Hz, thiết kế đẹp."
-    },
-    {
-      "id": "10",
-      "name": "Samsung Galaxy Z Fold5",
-      "price": 45000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Samsung_Galaxy_Z_Fold5.jpg",
-      "category": "điện thoại",
-      "hot": true,
-      "description": "Samsung Galaxy Z Fold5 màn hình gập, trải nghiệm đa nhiệm vượt trội."
-    },
-    {
-      "id": "11",
-      "name": "iPhone 15 Pro",
-      "price": 33000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/IPhone_15_pro_sierra_blue.jpg",
-      "category": "điện thoại",
-      "hot": true,
-      "description": "iPhone 15 Pro với chip A17, camera nâng cấp, thiết kế khung titan."
-    },
-    {
-      "id": "12",
-      "name": "Xiaomi 14 Ultra",
-      "price": 18500000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Xiaomi_14_ultra_black.jpg",
-      "category": "điện thoại",
-      "hot": true,
-      "description": "Xiaomi 14 Ultra camera lớn, zoom quang học mạnh, trải nghiệm flagship."
-    },
-    {
-      "id": "13",
       "name": "Vivo X100 Pro",
-      "price": 16000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Vivo_X100_pro.jpg",
+      "price": 16990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/304162/realme-11-vang-1-1.jpg",
       "category": "điện thoại",
       "hot": false,
-      "description": "Vivo X100 Pro với camera ZEISS, pin lớn, sạc nhanh."
-    },
-    {
-      "id": "14",
-      "name": "Oppo Find X6 Pro",
-      "price": 19000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Oppo_Find_X6_Pro.jpg",
-      "category": "điện thoại",
-      "hot": true,
-      "description": "Oppo Find X6 Pro màn hình LTPO 120Hz, thiết kế cao cấp, hiệu năng mạnh."
-    },
-    {
-      "id": "15",
-      "name": "Motorola Edge 50 Pro",
-      "price": 12000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Motorola_Edge_50_pro.jpg",
-      "category": "điện thoại",
-      "hot": false,
-      "description": "Motorola Edge 50 Pro giá tầm trung cao, thiết kế gọn, camera ổn."
-    },
-    {
-      "id": "16",
-      "name": "ASUS ROG Phone 8",
-      "price": 17000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Asus_ROG_Phone_8.jpg",
-      "category": "điện thoại",
-      "hot": true,
-      "description": "ASUS ROG Phone 8 chuyên game, màn hình cực nhanh, RAM lớn."
-    },
-    {
-      "id": "17",
-      "name": "Realme GT 6 Ultra",
-      "price": 11000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Realme_GT_6_ultra.jpg",
-      "category": "điện thoại",
-      "hot": false,
-      "description": "Realme GT 6 Ultra hiệu suất tốt, sạc nhanh 100W, camera ổn định."
-    },
-    {
-      "id": "18",
-      "name": "Honor Magic5 Pro",
-      "price": 13500000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Honor_Magic5_Pro.jpg",
-      "category": "điện thoại",
-      "hot": false,
-      "description": "Honor Magic5 Pro thiết kế tinh tế, camera mạnh mẽ, giá dễ chịu."
-    },
-    {
-      "id": "19",
-      "name": "Apple iPad Air 2024",
-      "price": 24000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/IPad_Air_2024_sky_blue.jpg",
-      "category": "tablet",
-      "hot": false,
-      "description": "iPad Air 2024 màn hình lớn, chip M2, dùng cho giải trí và làm việc."
-    },
-    {
-      "id": "20",
-      "name": "Samsung Galaxy Tab S10",
-      "price": 26000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Samsung_Galaxy_Tab_S10.jpg",
-      "category": "tablet",
-      "hot": true,
-      "description": "Galaxy Tab S10 tablet màn hình OLED, hỗ trợ S-Pen, đa nhiệm tốt."
+      "description": "Camera ZEISS, hiệu năng cao và thiết kế cao cấp."
     },
     {
       "id": "21",
-      "name": "Xiaomi Pad 6 Pro",
-      "price": 14000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Xiaomi_Pad_6_Pro.jpg",
-      "category": "tablet",
-      "hot": false,
-      "description": "Xiaomi Pad 6 Pro giá tốt, cấu hình mạnh cho học tập và giải trí."
+      "name": "Oppo Find X7",
+      "price": 18990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/291696/vivo-y22s-vang-1.jpg",
+      "category": "điện thoại",
+      "hot": true,
+      "description": "Flagship Oppo với camera Hasselblad, sạc 100W."
     },
     {
       "id": "22",
-      "name": "Sony WH-1000XM5",
-      "price": 7500000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sony_WH-1000XM5.jpg",
-      "category": "tai nghe",
+      "name": "Realme GT 6 Pro",
+      "price": 11990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/304162/realme-11-vang-1-1.jpg",
+      "category": "điện thoại",
       "hot": false,
-      "description": "Sony WH-1000XM5 tai nghe chống ồn hàng đầu, âm thanh tuyệt vời."
+      "description": "Snapdragon 8 Gen 2, màn hình 144Hz, pin lớn."
     },
     {
       "id": "23",
-      "name": "Bose QuietComfort Ultra",
-      "price": 8000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bose_QC_Ultra.jpg",
-      "category": "tai nghe",
-      "hot": false,
-      "description": "Bose QC Ultra cho trải nghiệm nghe nhạc cao cấp, thoải mái."
+      "name": "ROG Phone 8",
+      "price": 19990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-purple-1.jpg",
+      "category": "điện thoại",
+      "hot": true,
+      "description": "Điện thoại gaming chuyên dụng, tản nhiệt tối ưu, hiệu năng cực mạnh."
+    },
+    {
+      "id": "5",
+      "name": "MacBook Air M3",
+      "price": 28990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/249948/samsung-galaxy-s-ultra-tim-1.jpg",
+      "category": "laptop",
+      "hot": true,
+      "description": "Laptop mỏng nhẹ, chip M3 mạnh mẽ, pin 18 giờ."
+    },
+    {
+      "id": "6",
+      "name": "ASUS TUF Gaming F15",
+      "price": 21990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-purple-1.jpg",
+      "category": "laptop",
+      "hot": true,
+      "description": "Laptop gaming với RTX 4060, i7 Gen 13, tản nhiệt kép."
+    },
+    {
+      "id": "7",
+      "name": "Dell XPS 15",
+      "price": 32990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/313154/oppo-a38-vang-1-2.jpg",
+      "category": "laptop",
+      "hot": true,
+      "description": "Màn hình InfinityEdge, hiệu năng mạnh mẽ, thiết kế sang trọng."
     },
     {
       "id": "24",
-      "name": "Apple Watch Series 10",
-      "price": 15500000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Apple_Watch_Series_10.jpg",
-      "category": "đồng hồ",
+      "name": "Lenovo Legion 7i",
+      "price": 34990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/249948/samsung-galaxy-s-ultra-tim-1.jpg",
+      "category": "laptop",
       "hot": true,
-      "description": "Apple Watch Series 10 kết nối sâu với iPhone, sức khỏe và thời trang."
+      "description": "Laptop gaming cao cấp, RTX 4070, màn 240Hz."
     },
     {
       "id": "25",
-      "name": "Samsung Galaxy Watch 7",
-      "price": 9000000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Samsung_Galaxy_Watch_7.jpg",
-      "category": "đồng hồ",
+      "name": "HP Spectre x360",
+      "price": 30990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/304162/realme-11-vang-1-1.jpg",
+      "category": "laptop",
       "hot": false,
-      "description": "Galaxy Watch 7 hỗ trợ nhiều tính năng thể thao, pin tốt."
+      "description": "Laptop gập 2 trong 1, OLED 4K, pin 15 giờ."
+    },
+    {
+      "id": "8",
+      "name": "iPad Pro M2",
+      "price": 27990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/302531/xiaomi-13-xanh-1.jpg",
+      "category": "tablet",
+      "hot": true,
+      "description": "iPad Pro M2 với chip Apple M2, hỗ trợ bút Apple Pencil 2."
+    },
+    {
+      "id": "9",
+      "name": "Xiaomi Pad 6",
+      "price": 8990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/302531/xiaomi-13-xanh-1.jpg",
+      "category": "tablet",
+      "hot": false,
+      "description": "Màn hình 144Hz, Snapdragon 8+, pin 8840mAh."
+    },
+    {
+      "id": "10",
+      "name": "Samsung Galaxy Tab S9",
+      "price": 19990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251897/itel-l6502-den-1.jpg",
+      "category": "tablet",
+      "hot": true,
+      "description": "Máy tính bảng AMOLED, kháng nước IP68, bút S-Pen."
     },
     {
       "id": "26",
-      "name": "Anker Soundcore Liberty 3 Pro",
-      "price": 3200000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Anker_Soundcore_Liberty_3_Pro.jpg",
+      "name": "Huawei MatePad 11.5",
+      "price": 9990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/249948/samsung-galaxy-s-ultra-tim-1.jpg",
+      "category": "tablet",
+      "hot": false,
+      "description": "Tablet HarmonyOS, màn hình 120Hz, pin 7700mAh."
+    },
+ 
+    {
+      "id": "19",
+      "name": "Anker PowerCore 20000",
+      "price": 999000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/291696/vivo-y22s-vang-1.jpg",
       "category": "phụ kiện",
       "hot": false,
-      "description": "Tai nghe true-wireless Anker Soundcore Liberty 3 Pro – âm thanh hi-fi."
+      "description": "Pin sạc dự phòng dung lượng cao, hỗ trợ sạc nhanh PD."
     },
     {
-      "id": "27",
-      "name": "Logitech MX Master 3 S",
-      "price": 2700000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logitech_MX_Master_3S.jpg",
+      "id": "20",
+      "name": "Baseus GaN 65W Charger",
+      "price": 690000,
+      "image": "https://cdn.tgdd.vn/Products/Images/58/296695/sac-baseus-65w-3-cong-gan3-pro-cacpjb-c01-thumb-600x600.png",
       "category": "phụ kiện",
       "hot": false,
-      "description": "Chuột Logitech MX Master 3 S hiệu suất cao cho lập trình, thiết kế, văn phòng."
-    },
-    {
-      "id": "28",
-      "name": "Apple AirPods Pro (2nd Gen)",
-      "price": 6500000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Apple_AirPods_Pro_2nd_Gen.jpg",
-      "category": "phụ kiện",
-      "hot": false,
-      "description": "AirPods Pro thế hệ 2 chống ồn chủ động, âm thanh cải tiến."
-    },
-    {
-      "id": "29",
-      "name": "Samsung Galaxy Buds2 Pro",
-      "price": 5600000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Samsung_Galaxy_Buds2_Pro.jpg",
-      "category": "phụ kiện",
-      "hot": false,
-      "description": "Galaxy Buds2 Pro tai nghe true-wireless âm thanh cao cấp từ Samsung."
-    },
-    {
-      "id": "30",
-      "name": "Xiaomi Smart Band 8",
-      "price": 1250000,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Xiaomi_Smart_Band_8.jpg",
-      "category": "phụ kiện",
-      "hot": false,
-      "description": "Mi Smart Band 8 vòng đeo thông minh giá tốt, đo sức khỏe, pin lâu."
+      "description": "Cốc sạc nhanh 3 cổng, công nghệ GaN tiết kiệm năng lượng."
     }
   ],
   "users": [
     {
-      "id": "1",
-      "name": "Nguyễn Văn A",
-      "email": "vana@example.com",
-      "password": "123456",
-      "role": "customer"
+      "id": 1,
+      "username": "admin",
+      "password": "123456"
     },
     {
-      "id": "2",
-      "name": "Trần Thị B",
-      "email": "thib@example.com",
-      "password": "654321",
-      "role": "customer"
-    },
-    {
-      "id": "3",
-      "name": "Admin",
-      "email": "admin@example.com",
-      "password": "admin123",
-      "role": "admin"
+      "id": 2,
+      "username": "duyphan",
+      "password": "123456"
     }
   ]
 }
